@@ -29,9 +29,8 @@ const About = () => {
           >
             <h2 className="h2 text-accent">Who am I ?</h2>
             <h3 className="h3 mb-4">
-              I'm a tech enthusiast, freelance web developer with over 3 years
-              of experience. I am also a content writer and a project manager by
-              profession with more than 2 year of experience in the field.
+              A tech-enthusiast and full stack web developer with over 2 years
+              of experience.
             </h3>
             <p className="mb-6">
               thish is a paragrara I'm a tech enthusiast, freelance web

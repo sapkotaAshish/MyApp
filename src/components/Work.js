@@ -26,11 +26,9 @@ const Work = () => {
                 Work.
               </h2>
               <p className="max-w-sm mb-16">
-                {" "}
-                THis is the paragraph about my latest work. You can see the work
-                and their description over here and this is the only place
-                throughout the website where you can find all the works I have
-                done throughout my learning and working career.
+                THis is the paragraph about my latest work.asdofadof
+                asdnfioasdnfasdnfasdfoasdf .adfaosdfosafdansd asdnosdlnfsd
+                sdfsldnfa asdifo sfoasdof asdonosdf asdljfsn
               </p>
               <button className="btn btn-sm">View all projects</button>
             </div>
@@ -57,7 +55,7 @@ const Work = () => {
             initial="hidden"
             whileInView={"show"}
             viewport={{ once: false, amount: 0.3 }}
-            className="flex-1 flex flex-col gap-y-12 justify-between"
+            className="flex-1 flex flex-col gap-y-14 "
           >
             <div className="group relative overflow-hidden border-2 border-white/50 rounded-xl">
               <div className="group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300"></div>

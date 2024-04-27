@@ -59,8 +59,8 @@ const Banner = () => {
               whileInView={"show"}
               className="mb-8 max-w-lg mx-auto lg:mx-0"
             >
-              THis is a personal portfolio website with number of services. this
-              is to be filled ith information about yourself in the website.
+              A full stack developer, UI/UX designer and a certified project
+              manager.
             </motion.p>
 
             <motion.div
@@ -69,7 +69,7 @@ const Banner = () => {
               whileInView={"show"}
               className="flex max-w-max gap-x-6 items-center mb-12 mx-auto lg:mx-0"
             >
-              <button className="btn btn-lg">Contat me</button>
+              <button className="btn btn-lg">Contact me</button>
               <a href="#" className="text-gradient btn-link">
                 My portfolio
               </a>
