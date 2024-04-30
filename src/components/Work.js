@@ -26,9 +26,8 @@ const Work = () => {
                 Work.
               </h2>
               <p className="max-w-sm mb-16">
-                THis is the paragraph about my latest work.asdofadof
-                asdnfioasdnfasdnfasdfoasdf .adfaosdfosafdansd asdnosdlnfsd
-                sdfsldnfa asdifo sfoasdof asdonosdf asdljfsn
+                Recent work on cross browser compatible banking system web
+                application using web services like REST and SOAP.
               </p>
               <button className="btn btn-sm">View all projects</button>
             </div>

@@ -32,12 +32,7 @@ const About = () => {
               A tech-enthusiast and full stack web developer with over 2 years
               of experience.
             </h3>
-            <p className="mb-6">
-              thish is a paragrara I'm a tech enthusiast, freelance web
-              developer with over 3 years of experience. I am also a content
-              writer and a project manager by profession with more than 2 year
-              of experience in the field. ag
-            </p>
+            <p className="mb-6">You can contact</p>
 
             <div className="flex gap-x-6 lg:gap-x-10 mb-12">
               <div>

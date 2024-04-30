@@ -12,25 +12,25 @@ const services = [
   {
     name: "UI/UX Design",
     description:
-      "Here are hte serverioirf erogeroger airoao aeoigoagoa oigoaga gihaoga ga. aalfladf  oaidjfamdadfo adnadsfjlnal dfoahdfadfajsdfjsad    gosdfognsflgnsfgoifngsfnlfffffffff",
+      "A professional UI/UX design for your product website and application meeting all your product and project goals.",
     link: "Learn more",
   },
   {
     name: "Web Development",
     description:
-      "Here are hte serverioirf erogeroger airoao aeoigoagoa oigoaga gihaoga ga. aalfladf  oaidjfamdadfo adnadsfjlnal dfoahdfadfajsdfjsad    gosdfognsflgnsfgoifngsfnlfffffffff",
+      "Full stack web application development along including server side scripting using Python, PHP, Asp.net and JAVA.",
     link: "Learn more",
   },
   {
     name: "Content Writing",
     description:
-      "Here are hte serverioirf erogeroger airoao aeoigoagoa oigoaga gihaoga ga. aalfladf  oaidjfamdadfo adnadsfjlnal dfoahdfadfajsdfjsad    gosdfognsflgnsfgoifngsfnlfffffffff",
+      "All kind of content writing for your blogs, websites including the research writing and content development.",
     link: "Learn more",
   },
   {
     name: "Product Development",
     description:
-      "Here are hte serverioirf erogeroger airoao aeoigoagoa oigoaga gihaoga ga. aalfladf  oaidjfamdadfo adnadsfjlnal dfoahdfadfajsdfjsad    gosdfognsflgnsfgoifngsfnlfffffffff",
+      "Product development with high profeciency of client satisfaction throughout the entire lifecycle of the project.",
     link: "Learn more",
   },
 ];
